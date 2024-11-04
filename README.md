@@ -1,4 +1,4 @@
-# `HIII, I'm Saul` <img src="https://i.pinimg.com/originals/48/4a/a8/484aa881c6791ef3560df1d143190c0f.gif" width="200"/>
+# `HIII, I'm Saul` <img src="https://i.pinimg.com/originals/48/4a/a8/484aa881c6791ef3560df1d143190c0f.gif" width="50"/>
  
 
 ## Developer skilled in software and systems management from Spain.
