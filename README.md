@@ -1,6 +1,7 @@
-# HIII, I'm Saul <img src="[ ![_](https://github.com/user-attachments/assets/0d2d92c8-bb53-4de8-aa1c-771ac17f4586)](https://es.pinterest.com/pin/64950419621223094/)" width="200px" height="200px">
+# HIII, I'm Saul ![710fda642bedd21a8279e3c1899f11e8](https://github.com/user-attachments/assets/fcb66231-83f8-4bfe-ac65-9850d2d50b9c)
 
 ## Developer skilled in software and systems management from Spain.
+
 
 
 <br><br><br><br>
