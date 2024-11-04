@@ -1,8 +1,8 @@
 # About me 
-
+<br>
 
 ![mario-working](https://github.com/user-attachments/assets/64f5835c-976c-45e2-986f-f395ec5ceee9)
-
+<br>
 
 
 # 💻 Tech Stack:
