@@ -1,7 +1,7 @@
-# `Hellooo, I'm Saul` 
+# `Hellooo, I'm Saul ♦️` 
  
 
-## Developer skilled in software and systems management from Spain. 💥💥💥 
+## Developer skilled in software and systems management from Spain. 
 
 
 <br><br>
