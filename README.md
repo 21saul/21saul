@@ -6,12 +6,14 @@
 
 <br><br>
 
+![beb1fe077b35b3e85be70712dc81d6ae](https://github.com/user-attachments/assets/d76e0a4a-0c68-492d-967d-268f31c35233)
 
-![mario-working](https://github.com/user-attachments/assets/64f5835c-976c-45e2-986f-f395ec5ceee9)
+![mario-working](hfttps://github.com/user-attachments/assets/64f5835c-976c-45e2-986f-f395ec5ceee9)
 <br><br>
 #### :mailbox_with_no_mail:	Reach me at: https://www.linkedin.com/in/sa%C3%BAl-%C3%A1lvarez-monz%C3%B3n-bb2aa7336
 
 <br><br>
+
 
 
 # 💻 Tech Stack:
