@@ -6,7 +6,7 @@
 
 <br><br>
 
-![CIUDAD](https://github.com/user-attachments/assets/d76e0a4a-0c68-492d-967d-268f31c35233)
+![CIUDAD](https://i.pinimg.com/originals/60/ee/2c/60ee2c40db75cc99419e2eced7d3ae91.gif)
 
 <br><br>
 #### :mailbox_with_no_mail:	Reach me at: https://www.linkedin.com/in/sa%C3%BAl-%C3%A1lvarez-monz%C3%B3n-bb2aa7336
