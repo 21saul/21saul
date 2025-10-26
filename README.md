@@ -1,18 +1,10 @@
 # `Moshi moshi, I'm Saul ♦️` 
  
-
-## Software, Cybersecurity & Systems Wizzzard. 🩸🩸🩸
-
-
 <br><br>
 
 ![CIUDAD](https://i.pinimg.com/originals/f2/8a/ab/f28aabf9e691a7924ef59709afff3b26.gif)
 
 <br><br>
-#### :mailbox_with_no_mail:	Reach me at: www.linkedin.com/in/saúl-álvarez-monzón-993710369
-
-<br><br>
-
 
 
 # 💻 Tech Stack:
