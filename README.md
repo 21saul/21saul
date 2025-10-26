@@ -6,7 +6,7 @@
 
 <br><br>
 
-![CIUDAD](https://i.pinimg.com/originals/5a/a2/9d/5aa29d39877cbd4e3db431f71976181b.gif)
+![CIUDAD](https://i.pinimg.com/originals/f2/8a/ab/f28aabf9e691a7924ef59709afff3b26.gif)
 
 <br><br>
 #### :mailbox_with_no_mail:	Reach me at: www.linkedin.com/in/saúl-álvarez-monzón-993710369
