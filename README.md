@@ -1,16 +1,41 @@
-## Hi there 👋
+##  HOLA HOLAA, MI NOMBRE ES SAÚL 🫧
 
-<!--
-**21saul/21saul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!NOTE]  
+> **Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Actualmente en continuo desarrollo y aprendizaje para mejorar mi dominio en el sector, siempre trato de buscar nuevos frameworks, patrones y buenas prácticas.**     
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="text-align: center; margin: 20px 0;">
+    <img src="https://i.pinimg.com/originals/90/61/81/906181e6663a0e5f60b43e6cf8719b70.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
+
+<br>
+
+> [!IMPORTANT]
+> **Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado e interesado en la colaboración de proyectos innovadores y equipos donde pueda aportar valor y crecer junto a otros.**
+
+<br>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=saulmnz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Stats" width="480">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulmnz&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="Top Languages" width="480">
+  </div>
+  
+<br>
+    
+## TECNOLOGÍAS Y HERRAMIENTAS 📎
+
+> [!NOTE]  
+> ⚙️ **Backend: Java · Spring Boot · Python · Node.js**<br>  
+> 🎨 **Frontend: JS/TS · React · HTML/CSS**<br>  
+> 🎳 **DevOps: Docker · GitHub Actions · Git**<br>  
+> 🗄️ **DB: MySQL · MongoDB**<br>  
+> 📱 **Mobile: Kotlin · Flutter *(en progreso)***
+
+---
+
+
+  
+</div>
+
+
