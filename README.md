@@ -6,7 +6,7 @@
 <br>
 
 <div style="text-align: center; margin: 20px 0;">
-    <img src="https://i.pinimg.com/originals/82/0d/40/820d400880bd2e3a63ecfb08f8e80b66.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <img src="https://i.pinimg.com/originals/79/60/a9/7960a9c08289dda172e8c8ebc5c1d383.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
 
 <br>
