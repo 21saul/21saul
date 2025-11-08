@@ -3,8 +3,6 @@
 > [!NOTE]  
 > **Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Actualmente en continuo desarrollo y aprendizaje para mejorar mi dominio en el sector, siempre trato de buscar nuevos frameworks, patrones y buenas prácticas.**     
 
-<br>
-
 <div style="text-align: center; margin: 20px 0;">
     <img src="https://i.pinimg.com/originals/79/60/a9/7960a9c08289dda172e8c8ebc5c1d383.gif" width="100%" alt="GIF Animado" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </div>
