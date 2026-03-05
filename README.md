@@ -1,4 +1,4 @@
-##  HOLA HOLAA, MI NOMBRE ES SAÚL 🫧
+##  `HOLA HOLAA, MI NOMBRE ES SAÚL 🫧`
 
 > [!NOTE]  
 > **Técnico de grado Medio y Superior en Sistemas Microinformáticos en Red y Desarrollo de Aplicaciones Multiplataforma. Actualmente en continuo desarrollo y aprendizaje para mejorar mi dominio en el sector, siempre trato de buscar nuevos frameworks, patrones y buenas prácticas.**     
@@ -14,7 +14,7 @@
 
 <br>
     
-## TECNOLOGÍAS Y HERRAMIENTAS 📎
+## `TECNOLOGÍAS Y HERRAMIENTAS 📎`
 
 > [!NOTE]  
 > ⚙️ **Backend: Java · Spring Boot · Python · Node.js**<br>  
