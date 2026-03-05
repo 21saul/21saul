@@ -13,13 +13,6 @@
 > **Soy una persona curiosa con afán de aprender nuevas tecnologías y apasionado e interesado en la colaboración de proyectos innovadores y equipos donde pueda aportar valor y crecer junto a otros.**
 
 <br>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=21saul&show_icons=true&theme=dark&count_private=true&include_all_commits=true&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="GitHub Stats" width="480">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=21saul&layout=compact&theme=dark&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=6A5ACD" alt="Top Languages" width="480">
-  </div>
-  
-<br>
     
 ## TECNOLOGÍAS Y HERRAMIENTAS 📎
 
